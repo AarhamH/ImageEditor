@@ -1,8 +1,8 @@
 # CMPT 120 Yet Another Image Processer
 # Starter code for main.py
-# Author(s):
-# Date:
-# Description:
+# Author(s): Aarham Haider, Jason Yi, Dereck Cheng
+# Date: 11/10/21
+# Description: The main executable to open the Pygame UI
 
 import cmpt120imageProjHelper
 import cmpt120imageManip

@@ -1,5 +1,5 @@
 #Image Processing Manip
-#Author: Aarham Haider
+#Author: Aarham Haider, Jason Yi, Derek Cheng
 #Date: 11/10/21
 
 import cmpt120imageProjHelper as picture
